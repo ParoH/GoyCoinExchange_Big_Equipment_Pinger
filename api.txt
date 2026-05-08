@@ -1,2 +1,2 @@
 https://api.positionstack.com/v1/forward
-    ? access_key = YOUR_ACCESS_KEY
+    ? access_key = 991f2b61c54100c0f7b541d34ee9a62b
